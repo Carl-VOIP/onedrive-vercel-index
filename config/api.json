@@ -1,6 +1,6 @@
 {
   "clientId": "31b7a88a-f24f-411b-854c-05018ec30fbb",
-  "obfuscatedClientSecret": "U2FsdGVkX1+axZocUAo8Q8JF1Q8XGAi0eaoVSj2ZkoUjCfVvt6RZu+LzpL2x4V8dJJP/zhPKo0o149qC77VF3Q==",
+  "obfuscatedClientSecret": "U2FsdGVkX1/Ly3AalP/nhfyUev6rOYrwcT7M1nrSZM5+XfmUSGRPcHpmVkU7tKmt6buwp5X6IrlF87AqGKwMOg==",
   "redirectUri": "http://localhost",
   "authApi": "https://login.partner.microsoftonline.cn/common/oauth2/v2.0/token",
   "driveApi": "https://microsoftgraph.chinacloudapi.cn/v1.0/me/drive",
